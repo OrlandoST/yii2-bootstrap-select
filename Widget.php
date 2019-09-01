@@ -18,6 +18,10 @@ use yii\widgets\InputWidget;
 use yii\helpers\Html;
 use yii\helpers\Json;
 
+/**
+* Based on brussens/yii2-bootstrap-select
+* @see https://github.com/brussens/yii2-bootstrap-select
+*/
 class Widget extends InputWidget
 {
     /**
