@@ -27,7 +27,7 @@ to the require section of your `composer.json` file.
 use orlandost\bootstrap\select\Widget as Select;
 echo $form->field($model, 'subject')->widget(Select::className(), [
                             'options' => ['data-live-search' => 'true'],
-                            colors => [
+                            'colors' => [
                                 '1' => 'btn-primary',
                                 '2' => 'btn-secondary',
                                 '3' => 'btn-success',
