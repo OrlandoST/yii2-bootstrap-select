@@ -1,14 +1,14 @@
 <?php
 /**
- * Bootstrap-select yii2 widget.
+ * Bootstrap-select yii2 widget with colors.
  * Class Select
- * @author Brusenskiy Dmitry <brussens@nativeweb.ru>
+ * @author Pavel Orlov <orlandop@ramblerb.ru>
  * @since 1.0.0
  * @version 1.0.0
- * @link https://github.com/brussens/yii2-bootstrap-select <Repostory>
- * @copyright 2015 Brusenskiy Dmitry
+ * @link https://github.com/orlandost/yii2-bootstrap-select <Repostory>
+ * @copyright 2019 Pavel Orlov
  * @license http://opensource.org/licenses/MIT MIT
- * @package brussens\bootstrap\select
+ * @package orlandost\bootstrap\select
  */
 
 namespace orlandost\bootstrap\select;
