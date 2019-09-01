@@ -2,7 +2,7 @@
 /**
  * Bootstrap-select yii2 widget with colors.
  * Class Select
- * @author Pavel Orlov <orlandop@ramblerb.ru>
+ * @author Pavel Orlov <orlandop@rambler.ru>
  * @since 1.0.0
  * @version 1.0.0
  * @link https://github.com/orlandost/yii2-bootstrap-select <Repostory>
