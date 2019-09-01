@@ -11,7 +11,7 @@
  * @package brussens\bootstrap\select
  */
 
-namespace brussens\bootstrap\select;
+namespace orlandost\bootstrap\select;
 
 use Yii;
 use yii\widgets\InputWidget;
